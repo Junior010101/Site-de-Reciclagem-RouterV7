@@ -40,6 +40,7 @@ export default function Home() {
           w-full 
           flex 
           justify-center
+          2xl:scale-125
         "
       >
         <div
@@ -62,7 +63,8 @@ export default function Home() {
               className="
                 absolute 
                 right-0 
-                top-5 
+                top-5
+                2xl:top-28
                 z-0 
                 select-none
               "
